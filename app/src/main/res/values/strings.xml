@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">exam_ShoppingListe</string>
+    <string name="pas_d_articles">Pas d\'articles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nom">Nom :</string>
+    <string name="name">Name</string>
+    <string name="qte">Qte :</string>
+    <string name="nouriture">Nouriture</string>
+    <string name="boisson">Boisson</string>
+    <string name="hygi_ne">Hygiène</string>
+    <string name="maison">Maison</string>
+</resources>
